@@ -21,5 +21,5 @@ A heatmap was used to analyze the correlations between various variables:
 There is a negative correlation between billing amount and age, indicating that younger patients tend to have higher billing amounts.
 There is a negative correlation between billing amount and length of stay, suggesting that longer hospital stays are associated with lower billing amounts.
 A positive correlation exists between length of stay and age, indicating that older patients tend to stay longer in the hospital.
-Conclusion
+## Conclusion
 The analysis provides insights into the common medical conditions, length of stay patterns, and correlations between different variables such as billing amount, age, and length of stay. These findings can be used to improve patient management strategies, optimize resource allocation, and enhance overall hospital operations.
