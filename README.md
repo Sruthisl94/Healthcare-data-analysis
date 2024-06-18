@@ -2,6 +2,7 @@
 ## Summary
 ## Data Cleaning
 The dataset was cleaned using Python, which involved removing 534 duplicate rows to ensure the integrity and accuracy of the analysis.
+The analysis is done using bot python adn SQL.
 
 ## Findings
 ## Common Medical Condition:
@@ -15,6 +16,10 @@ The most frequent (mode) length of stay is 21 days.
 The median length of stay is also 15 days.
 Patients with normal test results tend to have a longer stay compared to those with abnormal results.
 Length of stay is higher for patients admitted under emergency circumstances compared to those admitted for urgent or elective reasons.
+
+## SQL query resuts
+The medical condition that needs longer days to stay is Cancer. There are 1011 patients with cancer need 30 days of stay in the hospital.
+
 Correlation Analysis:
 
 A heatmap was used to analyze the correlations between various variables:
